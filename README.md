@@ -1,7 +1,5 @@
 # SQL-project---Online-quiz-system
 
-Here’s a concise, well-structured **GitHub project summary** covering all major sections of your document:
-
 ---
 
 ## 🧩 Project Purpose / Business Case
